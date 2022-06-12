@@ -1,6 +1,7 @@
 import java.util.*;
+import java.io.*; 
 
-class test {
+public class challenge_missingInteger {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello!");
 
