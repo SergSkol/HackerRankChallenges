@@ -2,6 +2,10 @@
 
 > "Hacker Rank Challenges" is my set of solutions of code challenges. It simply lists of JavaScript fuctions which could be helpful for developers.
 
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/106581139/202183579-c22a525e-0909-4d68-ae48-a0617b074c89.png)
+
 ## Built With
 
 - HTML and CSS
@@ -9,17 +13,9 @@
 - Visual Studio Code
 - GitHub
 
-### Local Setup
+### Go live
 
-To run this project locally, make sure you have done the following:
-
-- Created hint.rc file
-- Created stylelint.rc file
-- Created .gihub/workflows/linters/yml
-- Get a copy of the project
-- Come into the project directory
-- Open the project using code editor of your choice
-- Open your prefered browser
+[Open GitHub Pages](https://sergskol.github.io/HackerRankChallenges/)
 
 ## Author
 
